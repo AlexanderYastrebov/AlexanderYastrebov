@@ -84,7 +84,7 @@ Career start. Java developer in outsourcing company.
 
 Participated in projects:
 
-* Crude oil mining web application
+* Crude oil mining monitoring web application
 * Web based document management system
 * Data ETL for Wiley publishing house
 * OCR and PDF417 barcode recognition library
