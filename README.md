@@ -9,11 +9,14 @@ yastrebov.alex@gmail.com
 
 [http://ru.linkedin.com/in/AlexanderYastrebov](http://ru.linkedin.com/in/AlexanderYastrebov)
 
+Moscow, Russia
 
-Software Architect & Senior Java Developer
-==========================================
+
+Senior Java Developer
+=====================
 
 Experienced software developer focused on Java backend, data storage and system integration solutions.
+H1B visa sponsorship required.
 
 
 Skills
@@ -22,6 +25,7 @@ Skills
 * Fullstack software development
 * Data storage and Web API design
 * Understanding of business requirements, project management
+
 
 Experience
 ----------
@@ -36,7 +40,7 @@ Co-founder, software architect and lead developer in a small software outsourcin
 team.
 
 For our primary client National Credit Bureau [http://www.creditnet.ru](http://www.creditnet.ru)
-we are developing the following solutions:
+we have developed the following solutions:
 
 * Solution for data management and mining of Russian enterprises database
 * Fulltext search solution with rich client side
@@ -78,7 +82,7 @@ aimed on customer convenience.
 
 ### int-projects
 
-February 2006 – January 2010
+February 2006 - January 2010
 
 Career start. Java developer in outsourcing company.
 
