@@ -15,16 +15,28 @@ Moscow, Russia
 Senior Java Developer
 =====================
 
-Experienced software developer focused on Java backend, data storage and system integration solutions.
+I'm experienced software developer focused on Java backend, data storage and system integration solutions.
+With more than 9 years of experience in commercial software development I have deep understanding of modern
+data and web technologies. Elegance and simplicity is my passion.
+
 H1B visa sponsorship required.
 
+Technical Skills
+----------------
 
-Skills
-------
+Common: SOA, OOP, TDD, GoF, refactoring
 
-* Fullstack software development
-* Data storage and Web API design
-* Understanding of business requirements, project management
+Languages: Java, JavaScript, python, SQL
+
+Frameworks: Spring framework, Node.js, Django
+
+Data storage: Neo4j, HBase, Solr, MongoDB, PostgreSQL
+
+Web: HTTP, REST
+
+Client: HTML, CSS, jQuery, Backbone.js, Bootstrap
+
+XML Stack: XML, XSL, XPath
 
 
 Experience
@@ -39,8 +51,8 @@ July 2012 - Present
 Co-founder, software architect and lead developer in a small software outsourcing 
 team.
 
-For our primary client National Credit Bureau [http://www.creditnet.ru](http://www.creditnet.ru)
-we have developed the following solutions:
+For our primary client National Credit Bureau [http://www.creditnet.ru](http://www.creditnet.ru/hyper/?lang=en)
+we are developing the following solutions:
 
 * Solution for data management and mining of Russian enterprises database
 * Fulltext search solution with rich client side
@@ -92,28 +104,6 @@ Participated in projects:
 * Web based document management system
 * Data ETL for Wiley publishing house
 * OCR and PDF417 barcode recognition library
-
-
-Technical Skills
-----------------
-
-Common: SOA, OOP, TDD, GoF, refactoring
-
-Languages: Java, JavaScript, python, SQL
-
-Frameworks: Spring framework, Node.js, Django
-
-Data storage: Neo4j, Apache HBase, Apache Solr, MongoDB, PostgreSQL
-
-Web: HTTP, REST
-
-Client: HTML, CSS, Backbone.js, Bootstrap
-
-XML Stack: XML, XSL, XPath
-
-OS: Debian-based Linux, Windows
-
-Tools: git, shell
 
 
 Education
