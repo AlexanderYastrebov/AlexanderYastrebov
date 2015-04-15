@@ -106,6 +106,14 @@ Participated in projects:
 * OCR and PDF417 barcode recognition library
 
 
+Open source contributions
+-------------------------
+
+* Neo4j [Hexadecimal short strings encoding/decoding implementation](https://github.com/neo4j/neo4j/pull/330)
+* Neo4j [Compound map-like properties implementation](https://github.com/neo4j/neo4j/pull/695)
+* Netbeans [Add support for package null-check annotations](https://netbeans.org/bugzilla/show_bug.cgi?id=250702)
+* Netbeans ["Close right Documents" for editor tabs](https://netbeans.org/bugzilla/show_bug.cgi?id=185733)
+
 Education
 ---------
 
