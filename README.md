@@ -113,6 +113,9 @@ Open source contributions
 * Neo4j [Compound map-like properties implementation](https://github.com/neo4j/neo4j/pull/695)
 * Netbeans [Add support for package null-check annotations](https://netbeans.org/bugzilla/show_bug.cgi?id=250702)
 * Netbeans ["Close right Documents" for editor tabs](https://netbeans.org/bugzilla/show_bug.cgi?id=185733)
+* Apache Nutch [Mark.checkMark returns empty string when null is expected with mongodb storage](https://issues.apache.org/jira/browse/NUTCH-2029)
+* Apache Gora [BSONDecorator returns empty string for null field value](https://issues.apache.org/jira/browse/GORA-423)
+
 
 Education
 ---------
