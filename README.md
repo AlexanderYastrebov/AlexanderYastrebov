@@ -30,9 +30,11 @@ Languages: Java, JavaScript, python, SQL
 
 Frameworks: Spring framework, Node.js, Django
 
-Data storage: Neo4j, HBase, Solr, MongoDB, PostgreSQL
+Data storage: Neo4j, Solr, MongoDB, PostgreSQL
 
-Web: HTTP, REST
+Hadoop: HBase, Flume, Impala, Apache Nutch
+
+Web: HTTP, REST, SOAP
 
 Client: HTML, CSS, jQuery, Backbone.js, Bootstrap
 
