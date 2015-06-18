@@ -19,7 +19,8 @@ I'm experienced software developer focused on Java backend, data storage and sys
 With more than 9 years of experience in commercial software development I have deep understanding of modern
 data and web technologies. Elegance and simplicity is my passion.
 
-H1B visa sponsorship required.
+Ready to relocate, visa sponsorship required.
+
 
 Technical Skills
 ----------------
