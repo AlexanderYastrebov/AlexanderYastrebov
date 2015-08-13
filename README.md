@@ -113,12 +113,14 @@ Open source contributions
 -------------------------
 
 * Neo4j [Hexadecimal short strings encoding/decoding implementation](https://github.com/neo4j/neo4j/pull/330)
+* Neo4j [Fix wrong path length observed by path expander in shortest path algo imlementation](https://github.com/neo4j/neo4j/pull/569)
 * Neo4j [Compound map-like properties implementation](https://github.com/neo4j/neo4j/pull/695)
 * Netbeans [Add support for package null-check annotations](https://netbeans.org/bugzilla/show_bug.cgi?id=250702)
 * Netbeans ["Close right Documents" for editor tabs](https://netbeans.org/bugzilla/show_bug.cgi?id=185733)
 * Apache Nutch [Mark.checkMark returns empty string when null is expected with mongodb storage](https://issues.apache.org/jira/browse/NUTCH-2029)
 * Apache Gora [BSONDecorator returns empty string for null field value](https://issues.apache.org/jira/browse/GORA-423)
 * Apache Gora [MongoDBResult issues count() request on progress](https://issues.apache.org/jira/browse/GORA-424)
+* Apache Gora [MongoDB cursor timeout on long running parse job](https://issues.apache.org/jira/browse/GORA-426)
 
 
 Education
