@@ -16,10 +16,8 @@ Senior Java Developer
 =====================
 
 I'm experienced software developer focused on Java backend, data storage and system integration solutions.
-With more than 9 years of experience in commercial software development I have deep understanding of modern
+With more than 10 years of experience in commercial software development I have deep understanding of modern
 data and web technologies. Elegance and simplicity is my passion.
-
-Ready to relocate, visa sponsorship required.
 
 
 Technical Skills
