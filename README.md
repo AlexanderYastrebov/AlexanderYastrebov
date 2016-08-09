@@ -25,9 +25,11 @@ Technical Skills
 
 Common: SOA, OOP, TDD, GoF, refactoring
 
-Languages: Java, JavaScript, python, SQL
+Languages: Java, JavaScript, Python, SQL
 
 Frameworks: Spring framework, Node.js, Django
+
+Deployment: AWS, Docker, continuous delivery
 
 Data storage: Neo4j, Solr, MongoDB, PostgreSQL
 
