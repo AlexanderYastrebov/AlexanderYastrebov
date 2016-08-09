@@ -51,7 +51,7 @@ November 2015 - Present
 
 [https://www.zalando.de/](https://www.zalando.de/)
 
-Software engineer in a European e-commerce company that sells shoes, clothing and other fashion items.
+Software engineer in a Europe's leading online fashion platform.
 
 In a core platform team I am working on design and implementation of software systems including:
 
@@ -138,6 +138,7 @@ Open source contributions
 * Apache Gora [BSONDecorator returns empty string for null field value](https://issues.apache.org/jira/browse/GORA-423)
 * Apache Gora [MongoDBResult issues count() request on progress](https://issues.apache.org/jira/browse/GORA-424)
 * Apache Gora [MongoDB cursor timeout on long running parse job](https://issues.apache.org/jira/browse/GORA-426)
+* [Zalando Open Source](https://github.com/zalando/)
 
 
 Education
