@@ -3,13 +3,13 @@ Alexander Yastrebov
 
 yastrebov.alex@gmail.com
 
-+7 903 628 08 08
++49 157 589 787 12
 
 [https://github.com/AlexanderYastrebov](https://github.com/AlexanderYastrebov)
 
-[http://ru.linkedin.com/in/AlexanderYastrebov](http://ru.linkedin.com/in/AlexanderYastrebov)
+[https://www.linkedin.com/in/AlexanderYastrebov](https://www.linkedin.com/in/AlexanderYastrebov)
 
-Moscow, Russia
+Berlin, Germany
 
 
 Senior Java Developer
