@@ -43,9 +43,26 @@ XML Stack: XML, XSL, XPath
 Experience
 ----------
 
+### Zalando SE
+
+November 2015 - Present
+
+[https://www.zalando.de/](https://www.zalando.de/)
+
+Software engineer in a European e-commerce company that sells shoes, clothing and other fashion items.
+
+In a core platform team I am working on design and implementation of software systems including:
+
+* Business partner data management service
+* Customs data processing system
+* Order processing system
+
+I have also participated in internal bug bounty program and discovered several critical security issues.
+
+
 ### [nullpointer]
 
-July 2012 - Present
+July 2012 - November 2015
 
 [http://null-pointer.ru/](http://null-pointer.ru/)
 
