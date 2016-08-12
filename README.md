@@ -72,7 +72,7 @@ Co-founder, software architect and lead developer in a small software outsourcin
 team.
 
 For our primary client National Credit Bureau [http://www.creditnet.ru](http://www.creditnet.ru/hyper/?lang=en)
-we are developing the following solutions:
+we developed the following solutions:
 
 * Solution for data management and mining of Russian enterprises database
 * Fulltext search solution with rich client side
