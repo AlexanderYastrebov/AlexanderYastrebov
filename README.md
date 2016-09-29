@@ -23,7 +23,7 @@ data and web technologies. Elegance and simplicity is my passion.
 Technical Skills
 ----------------
 
-Common: SOA, OOP, TDD, GoF, refactoring
+Design and development: microservices, SOA, OOP, GoF, TDD, BDD, refactoring
 
 Languages: Java, JavaScript, Python, SQL
 
