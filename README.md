@@ -49,11 +49,11 @@ November 2015 - Present
 
 Software engineer in a Europe's leading online fashion platform.
 
-In a core platform team I am working on design and implementation of software systems including:
+I am working in transaction handling team on design and implementation of several software systems:
 
-* Business partner data management service
-* Customs data processing system
 * Order processing system
+* Customs data processing system
+* Business partner data management service
 
 I have also participated in internal bug bounty program and discovered several critical security issues.
 
