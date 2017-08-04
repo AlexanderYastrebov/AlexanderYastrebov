@@ -122,16 +122,19 @@ As a Java developer I have participated in projects:
 Open source contributions
 -------------------------
 
-* Neo4j [Hexadecimal short strings encoding/decoding implementation](https://github.com/neo4j/neo4j/pull/330)
-* Neo4j [Fix wrong path length observed by path expander in shortest path algo imlementation](https://github.com/neo4j/neo4j/pull/569)
-* Neo4j [Compound map-like properties implementation](https://github.com/neo4j/neo4j/pull/695)
-* Netbeans [Add support for package null-check annotations](https://netbeans.org/bugzilla/show_bug.cgi?id=250702)
-* Netbeans ["Close right Documents" for editor tabs](https://netbeans.org/bugzilla/show_bug.cgi?id=185733)
-* Apache Nutch [Mark.checkMark returns empty string when null is expected with mongodb storage](https://issues.apache.org/jira/browse/NUTCH-2029)
+* JavaMoney [UnknownCurrencyException(CurrencyCode=EUR)](https://github.com/JavaMoney/jsr354-ri/issues/158)
+* Chromium [Page translation does not work for German locale](https://bugs.chromium.org/p/chromium/issues/detail?id=656922)
+* Logbook [Various contributions](https://github.com/zalando/logbook/graphs/contributors)
+* Tracer [Phrase generator implementation](https://github.com/zalando/tracer/pull/44)
 * Apache Gora [BSONDecorator returns empty string for null field value](https://issues.apache.org/jira/browse/GORA-423)
 * Apache Gora [MongoDBResult issues count() request on progress](https://issues.apache.org/jira/browse/GORA-424)
 * Apache Gora [MongoDB cursor timeout on long running parse job](https://issues.apache.org/jira/browse/GORA-426)
-* [Zalando Open Source](https://github.com/zalando/)
+* Apache Nutch [Mark.checkMark returns empty string when null is expected with mongodb storage](https://issues.apache.org/jira/browse/NUTCH-2029)
+* Netbeans [Add support for package null-check annotations](https://netbeans.org/bugzilla/show_bug.cgi?id=250702)
+* Netbeans ["Close right Documents" for editor tabs](https://netbeans.org/bugzilla/show_bug.cgi?id=185733)
+* Neo4j [Hexadecimal short strings encoding/decoding implementation](https://github.com/neo4j/neo4j/pull/330)
+* Neo4j [Fix wrong path length observed by path expander in shortest path algo imlementation](https://github.com/neo4j/neo4j/pull/569)
+* Neo4j [Compound map-like properties implementation](https://github.com/neo4j/neo4j/pull/695)
 
 
 Education
