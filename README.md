@@ -33,13 +33,9 @@ Deployment: AWS, Docker, continuous delivery
 
 Data storage: Neo4j, Solr, MongoDB, PostgreSQL
 
-Hadoop: HBase, Flume, Impala, Apache Nutch
-
 Web: HTTP, REST, SOAP
 
 Client: HTML, CSS, jQuery, Backbone.js, Bootstrap
-
-XML Stack: XML, XSL, XPath
 
 
 Experience
