@@ -142,7 +142,7 @@ Education
 
 Bauman Moscow State Technical University, 2002-2008
 
-Engineer's degree, Mechatronics, Robotics, and Automation Engineering
+Engineer's degree in Mechatronics, Robotics and Automation Engineering
 
 
 
