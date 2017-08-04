@@ -51,11 +51,12 @@ Software engineer in a Europe's leading online fashion platform.
 
 I am working in transaction handling team on design and implementation of several software systems:
 
-* Order processing system
-* Customs data processing system
-* Business partner data management service
+* Order processing
+* Accounting transactions processing
+* Customs data processing
+* Business partner data management
 
-I have also participated in internal bug bounty program and discovered several critical security issues.
+I have also discovered several critical security issues and proposed fixes for them.
 
 
 ### [nullpointer]
@@ -64,17 +65,15 @@ July 2012 - November 2015
 
 [http://null-pointer.ru/](http://null-pointer.ru/)
 
-Co-founder, software architect and lead developer in a small software outsourcing 
-team.
+Co-founder, software architect and lead developer in a small software team.
 
-For our primary client National Credit Bureau [http://www.creditnet.ru](http://www.creditnet.ru/hyper/?lang=en)
-we developed the following solutions:
+We have developed multiple solutions for our client National Credit Bureau:
 
-* Solution for data management and mining of Russian enterprises database
+* Data management and data mining system on top of database of Russian enterprises [http://www.creditnet.ru](http://www.creditnet.ru/hyper/?lang=en)
 * Fulltext search solution with rich client side
-* Visual graph analysis tool for enterprise connections based on co-founders, co-management and contacts
-* Reporting engine
-* REST API design and implementation
+* Visual graph analysis tool of enterprise connections via co-founders, co-management and contacts
+* Enterprise profile reporting engine
+* REST API for commercial access
 
 
 ### BPC Banking Technologies 
@@ -83,17 +82,17 @@ January 2011 - January 2013
 
 [http://www.bpcbt.com/](http://www.bpcbt.com/)
 
-Java developer and technical writer in global banking software and payment solutions provider.
+Java developer in global banking software and payment solutions provider.
 
 I have completed the following projects:
 
 * Payment gate integration of [TTK](http://ttk.ru) and [Sberbank](http://sberbank.ru)
 * [Social network](http://ok.ru) application for mobile account deposit
 * Mobile banking application REST API design
-* Mobile banking USSD payment application (proof of concept)
-* Anti-fraud filter administration panel refactoring
+* Prototype of mobile banking USSD payment application
+* Refactoring of anti-fraud filter administration panel
 
-Also participated in architecture planning and technical discussions on other payment-related solutions.
+I have also participated in architecture planning and technical discussions for other payment-related solutions.
 
 
 ### Bildika
@@ -104,7 +103,7 @@ January 2010 - January 2011
 
 Co-founder and backend developer in b2c e-commerce startup.
 
-We have developed e-commerce system for construction and repair goods market
+We have developed e-commerce system for construction materials market
 aimed on customer convenience.
 
 
@@ -112,14 +111,12 @@ aimed on customer convenience.
 
 February 2006 - January 2010
 
-Career start. Java developer in outsourcing company.
+As a Java developer I have participated in projects:
 
-Participated in projects:
-
-* Crude oil mining monitoring web application
-* Web based document management system
-* Data ETL for Wiley publishing house
 * OCR and PDF417 barcode recognition library
+* Data ETL for Wiley publishing house
+* Web based document management system
+* Crude oil mining monitoring web application
 
 
 Open source contributions
