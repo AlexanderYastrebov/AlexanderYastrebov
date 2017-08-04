@@ -12,12 +12,12 @@ yastrebov.alex@gmail.com
 Berlin, Germany
 
 
-Senior Java Developer
-=====================
+Software Developer
+==================
 
-I'm experienced software developer focused on Java backend, data storage and system integration solutions.
-With more than 10 years of experience in commercial software development I have deep understanding of modern
-data and web technologies. Elegance and simplicity is my passion.
+Hello. I am software developer with broad experience in backend ecosystem. 
+I tend to apply What, Why, How principle to everything I do. Elegance and simplicity is my passion.
+I strongly believe in and contribute to Open Source.
 
 
 Technical Skills
@@ -133,7 +133,7 @@ Open source contributions
 * Netbeans [Add support for package null-check annotations](https://netbeans.org/bugzilla/show_bug.cgi?id=250702)
 * Netbeans ["Close right Documents" for editor tabs](https://netbeans.org/bugzilla/show_bug.cgi?id=185733)
 * Neo4j [Hexadecimal short strings encoding/decoding implementation](https://github.com/neo4j/neo4j/pull/330)
-* Neo4j [Fix wrong path length observed by path expander in shortest path algo imlementation](https://github.com/neo4j/neo4j/pull/569)
+* Neo4j [Fix wrong path length observed by path expander in shortest path algo implementation](https://github.com/neo4j/neo4j/pull/569)
 * Neo4j [Compound map-like properties implementation](https://github.com/neo4j/neo4j/pull/695)
 
 
