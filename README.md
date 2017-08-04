@@ -23,7 +23,7 @@ data and web technologies. Elegance and simplicity is my passion.
 Technical Skills
 ----------------
 
-Design and development: microservices, SOA, OOP, GoF, TDD, BDD, refactoring
+Design and development: Microservices, SOA, OOP, GoF, TDD, BDD, refactoring
 
 Languages: Java, JavaScript, Python, SQL
 
@@ -31,11 +31,11 @@ Frameworks: Spring framework, Node.js, Django
 
 Deployment: AWS, Docker, continuous delivery
 
-Data storage: Neo4j, Solr, MongoDB, PostgreSQL
+Data storage: PostgreSQL, Solr, Neo4j, MongoDB
 
-Web: HTTP, REST, SOAP
+Web backend: HTTP, REST, SOAP
 
-Client: HTML, CSS, jQuery, Backbone.js, Bootstrap
+Web frontend: HTML, CSS, jQuery, Backbone.js, Bootstrap
 
 
 Experience
