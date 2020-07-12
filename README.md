@@ -3,8 +3,6 @@ Alexander Yastrebov
 
 yastrebov.alex@gmail.com
 
-+49 157 589 787 12
-
 [https://github.com/AlexanderYastrebov](https://github.com/AlexanderYastrebov)
 
 [https://www.linkedin.com/in/AlexanderYastrebov](https://www.linkedin.com/in/AlexanderYastrebov)
@@ -23,13 +21,13 @@ I strongly believe in and contribute to Open Source.
 Technical Skills
 ----------------
 
-Design and development: Microservices, SOA, OOP, GoF, TDD, BDD, refactoring
+Design and development: Cloud, Microservices, SOA, OOP, GoF, TDD, BDD, refactoring
 
-Languages: Java, JavaScript, Python, SQL
+Languages: Java, Go, JavaScript, Python, SQL
 
-Frameworks: Spring framework, Node.js, Django
+Frameworks: Golang, Spring framework, Node.js, Django
 
-Deployment: AWS, Docker, continuous delivery
+Deployment: Kubernetes, AWS, Docker, continuous delivery
 
 Data storage: PostgreSQL, Solr, Neo4j, MongoDB
 
@@ -55,6 +53,7 @@ I am working in transaction handling team on design and implementation of severa
 * Accounting transactions processing
 * Customs data processing
 * Business partner data management
+* Migration of vintage applications to Kubernetes
 
 I have also discovered several critical security issues and proposed fixes for them.
 
