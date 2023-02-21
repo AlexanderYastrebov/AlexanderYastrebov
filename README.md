@@ -13,8 +13,10 @@ Berlin, Germany
 Software Developer
 ==================
 
-Hello. I am software developer with broad experience in backend ecosystem. 
-I tend to apply What, Why, How principle to everything I do. Elegance and simplicity is my passion.
+Hello.
+I am a software developer with a broad experience in the infrastructure and backend ecosystems.
+I tend to apply the What, Why, How principle to everything I do.
+Elegance and simplicity is my passion.
 I strongly believe in and contribute to Open Source.
 
 
