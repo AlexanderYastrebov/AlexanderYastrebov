@@ -47,9 +47,15 @@ November 2015 - Present
 
 [https://www.zalando.de/](https://www.zalando.de/)
 
-Software engineer in a Europe's leading online fashion platform.
+Software engineer in Europe's leading online fashion platform.
 
-I am working in transaction handling team on design and implementation of several software systems:
+#### August 2021 - Present
+
+I work in the infrastructure team that takes care of all incoming traffic of Zalando.
+
+#### November 2015 - August 2021
+
+I worked in the transaction handling team on the design and implementation of several software systems:
 
 * Order processing
 * Accounting transactions processing
